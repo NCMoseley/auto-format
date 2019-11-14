@@ -1,0 +1,77 @@
+{
+	"typescript.check.npmIsInstalled": false,
+	"workbench.colorTheme": "Dobri Next -A01- Dark",
+	"git.confirmSync": false,
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.autoIndent": false,
+	"editor.wordWrap": "on",
+	"editor.matchBrackets": false,
+	"window.zoomLevel": 0,
+	"editor.tabSize": 2,
+	"extensions.ignoreRecommendations": false,
+	"gitlens.advanced.messages": {
+		"suppressCommitHasNoPreviousCommitWarning": false,
+		"suppressCommitNotFoundWarning": false,
+		"suppressFileNotUnderSourceControlWarning": false,
+		"suppressGitVersionWarning": false,
+		"suppressLineUncommittedWarning": false,
+		"suppressNoRepositoryWarning": false,
+		"suppressResultsExplorerNotice": false,
+		"suppressShowKeyBindingsNotice": true,
+		"suppressUpdateNotice": false,
+		"suppressWelcomeNotice": true
+	},
+	"explorer.confirmDragAndDrop": false,
+	"files.autoSave": "onFocusChange",
+	"emmet.syntaxProfiles": {
+		"javascript": "jsx"
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"vue-html": "html"
+	},
+	"git.autofetch": true,
+	"eslint.enable": true,
+	"javascript.format.enable": true,
+	"gitlens.historyExplorer.enabled": true,
+	"explorer.confirmDelete": false,
+	"files.associations": {
+		"*.js": "javascriptreact"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"sync.gist": "41ffb35325d5d141daf4f0254fbc406c",
+	"sync.quietSync": false,
+	"sync.removeExtensions": true,
+	"sync.syncExtensions": true,
+	"sync.autoDownload": false,
+	"sync.autoUpload": false,
+	"sync.forceDownload": false,
+	"gitlens.views.fileHistory.enabled": true,
+	"gitlens.views.lineHistory.enabled": true,
+	"dart.flutterSdkPath": "/main/Desktop/flutter",
+	"cSpell.userWords": [
+		"barcode",
+		"birthdate",
+		"browserslist",
+		"devtools",
+		"dropzone",
+		"firstname",
+		"lastname",
+		"notif",
+		"progressbar",
+		"reactstrap",
+		"signup",
+		"strava"
+	],
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.configPath": "prettier.config.js",
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.settings.editor": "json"
+}
